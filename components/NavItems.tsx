@@ -17,10 +17,6 @@ const navItems = [
     label: "My Journey",
     href: "/my-journey",
   },
-  {
-    label: "Sign in",
-    href: "/sign-in",
-  },
 ];
 
 const NavItems = () => {
